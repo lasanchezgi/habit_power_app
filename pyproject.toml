@@ -1,0 +1,18 @@
+[project]
+name = "habit-power-app"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Laura Sanchez Giraldo",email = "laurasanchezgiraldo@outlook.es"}
+]
+package-mode = false 
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask (>=3.1.0,<4.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
