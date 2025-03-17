@@ -12,7 +12,7 @@ Para instalar este proyecto, te recomendamos seguir estos pasos:
 
 Para actualizar los requerimientos utiliza este comando: `pip3 freeze > requirements.txt`
 
-# GitHub 🐱
+## GitHub 🐱
 
 * `git init`
 * `git add .`
