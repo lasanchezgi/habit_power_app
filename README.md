@@ -36,6 +36,6 @@ El proyecto sigue los principios de la arquitectura limpia, dividiendo el códig
 
 Si tienes preguntas o sugerencias, no dudes en contactarnos a través del grupo de estudio **Python Study Group**.
 
-<a href="https://www.linkedin.com/in/carlosm-araujob/" title="Linkedin"> Carlos Mario Araujo </a>
+[Carlos Mario Araujo](https://www.linkedin.com/in/carlosm-araujob/ "Linkedin")
 
-<a href="https://www.linkedin.com/in/laurasanchezgiraldo/" title="Linkedin"> Laura Sánchez Giraldo</a>
+[Laura Sánchez Giraldo](https://www.linkedin.com/in/laurasanchezgiraldo/ "Linkedin")
